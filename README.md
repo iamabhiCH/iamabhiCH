@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/iamabhich_07" target="blank"><img src="https://img.shields.io/twitter/follow/iamabhich_07?logo=twitter&style=for-the-badge" alt="iamabhich_07" /></a> </p>
 
-- 🔭 I’m currently working on [bazzarhub E-Commerce Website](https://github.com/iamabhiCH/bazzarhub-E-Commerce)
+- 🔭 I’m currently working on <!--[bazzarhub E-Commerce Website](https://github.com/iamabhiCH/bazzarhub-E-Commerce) -->
 
 - 🌱 I’m currently learning **React.JS**
 
