@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamabhich&label=Profile%20views&color=0e75b6&style=flat" alt="iamabhich" /> </p>
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/iamabhich](https://linktr.ee/iamabhich)
 
-- 💬 Ask me about **C, C++, Java, Python, JavaScript, MySQL**
+- 💬 Ask me about **C, C++, Java, Python, JavaScript, TypeScript, MySQL, React.Js, Node.Js, Express.js, Mongo DB, SQL, PostgreSQL**
 
 - 📫 How to reach me **abhishekay442080@gmail.com**
 
