@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on https://marketex-the-online-store.netlify.app/
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/iamabhich](https://linktr.ee/iamabhich)
 
