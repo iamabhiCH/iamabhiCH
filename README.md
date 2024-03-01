@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **abhishekay442080@gmail.com**
 
-- 📄 Know about my experiences [https://iamabhich.github.io/My-Portfolio/Abhishek_Yadav.pdf](https://drive.google.com/file/d/1t5XvqAD7SY-znGTevGtjA84qhV6-A6_6/view?usp=drivesdk)
+- 📄 Know about my experiences [Open My Resume From Here.......](https://drive.google.com/file/d/1t5XvqAD7SY-znGTevGtjA84qhV6-A6_6/view?usp=drivesdk)
 
 - ⚡ Fun fact **I am funny 😀**
 
