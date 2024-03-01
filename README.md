@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/iamabhich](https://linktr.ee/iamabhich)
 
-- 💬 Ask me about **C, C++, Java, Python, JavaScript, TypeScript, MySQL, React.Js, Node.Js, Express.js, Mongo DB, SQL, PostgreSQL**
+- 💬 Ask me about **C, C++, Java, Python, JavaScript, TypeScript, Next.Js, React.Js, Node.Js, Express.js, MySQL, Mongo DB, SQL, PostgreSQL**
 
 - 📫 How to reach me **abhishekay442080@gmail.com**
 
-- 📄 Know about my experiences [https://iamabhich.github.io/My-Portfolio/Abhishek_Yadav.pdf](https://iamabhich.github.io/My-Portfolio/Abhishek_Yadav.pdf)
+- 📄 Know about my experiences [https://iamabhich.github.io/My-Portfolio/Abhishek_Yadav.pdf](https://drive.google.com/file/d/1t5XvqAD7SY-znGTevGtjA84qhV6-A6_6/view?usp=drivesdk)
 
 - ⚡ Fun fact **I am funny 😀**
 
